@@ -1,5 +1,5 @@
-package UTSOOP.BangunDatar.com_setengah_lingkaran;
-import UTSOOP.BangunDatar.BangunDatar;
+package Essay.BangunDatar.com_setengah_lingkaran;
+import Essay.BangunDatar.BangunDatar;
 
 public class SetengahLingkaran implements BangunDatar{
     double jari2;
