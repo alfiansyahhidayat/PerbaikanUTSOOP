@@ -1,4 +1,4 @@
-package UTSOOP.BangunDatar;
+package Essay.BangunDatar;
 
 public interface BangunDatar {
     void luas();
