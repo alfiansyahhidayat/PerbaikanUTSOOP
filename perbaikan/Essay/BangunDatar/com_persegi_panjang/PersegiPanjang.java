@@ -1,5 +1,5 @@
-package UTSOOP.BangunDatar.com_persegi_panjang;
-import UTSOOP.BangunDatar.BangunDatar;
+package Essay.BangunDatar.com_persegi_panjang;
+import Essay.BangunDatar.BangunDatar;
 
 public class PersegiPanjang implements BangunDatar{
     double panjang;
